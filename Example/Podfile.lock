@@ -1,0 +1,16 @@
+PODS:
+  - JPTransition (0.1.0)
+
+DEPENDENCIES:
+  - JPTransition (from `../`)
+
+EXTERNAL SOURCES:
+  JPTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JPTransition: ca4d23b4a5ee8b9198e82dae2e226da498de5f32
+
+PODFILE CHECKSUM: c750a0a9098e4df0d116922dcb00c49e13010cc7
+
+COCOAPODS: 1.11.3

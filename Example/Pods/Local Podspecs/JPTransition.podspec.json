@@ -1,0 +1,22 @@
+{
+  "name": "JPTransition",
+  "version": "0.1.0",
+  "summary": "A short description of JPTransition.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhoujianping/JPTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoujianping": "zhoujianping24@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zhoujianping/JPTransition.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JPTransition/Classes/**/*"
+}

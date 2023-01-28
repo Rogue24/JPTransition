@@ -1,28 +1,20 @@
 # JPTransition
 
-[![CI Status](https://img.shields.io/travis/zhoujianping/JPTransition.svg?style=flat)](https://travis-ci.org/zhoujianping/JPTransition)
-[![Version](https://img.shields.io/cocoapods/v/JPTransition.svg?style=flat)](https://cocoapods.org/pods/JPTransition)
-[![License](https://img.shields.io/cocoapods/l/JPTransition.svg?style=flat)](https://cocoapods.org/pods/JPTransition)
-[![Platform](https://img.shields.io/cocoapods/p/JPTransition.svg?style=flat)](https://cocoapods.org/pods/JPTransition)
-
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+It's very easy to use to imitate the transition animation like App Store.
 
-## Requirements
+### Card Style
+![](https://github.com/Rogue24/JPCover/raw/master/JPTransition/cardstyle.gif)
 
-## Installation
+### Zoom Style
+![](https://github.com/Rogue24/JPCover/raw/master/JPTransition/zoomstyle.gif)
 
-JPTransition is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'JPTransition'
-```
+**Coming soon...**
 
 ## Author
 
-zhoujianping, zhoujianping24@hotmail.com
+zhoujianping24@hotmail.com, zhoujianping24@hotmail.com
 
 ## License
 
